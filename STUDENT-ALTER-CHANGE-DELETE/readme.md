@@ -1,20 +1,19 @@
-# Student Management System
+# SQL Joins
 
-A SQL-based project for managing student records using MySQL.
+A SQL project demonstrating different types of joins used to combine data from multiple tables.
 
-## Features
-- Create Database and Tables
-- Insert Student Records
-- Retrieve Student Information
-- Update Student Details
-- Delete Student Records
+## Joins Covered
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
 
 ## Technologies Used
-- MySQL
 - SQL
+- MySQL
 
-## Project Files
-- `student_management.sql` – Contains all SQL queries for the project.
+## Project File
+- `joins.sql`
 
 ## Author
 Neha Burrewar
