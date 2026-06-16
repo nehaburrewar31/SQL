@@ -1,4 +1,4 @@
-# 📚 Library Management System | SQL Project
+# Library Management System
 
 ## Overview
 
@@ -50,7 +50,5 @@ The project consists of three interconnected tables:
 
 This project demonstrates practical SQL skills by analyzing a real-world library dataset and generating insights that can support operational and business decisions. It serves as a portfolio project for aspiring Data Analysts and SQL Developers.
 
----
-
 **Author:** Your Name
-**GitHub:** https://github.com/your-username
+
