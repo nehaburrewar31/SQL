@@ -1,6 +1,6 @@
 # Bank Management System SQL Project
 
-## Overview
+ Overview
 
 This project demonstrates a Bank Management System database using SQL. It includes customer, account, and transaction data to practice SQL queries commonly used in Data Analysis and Database Management.
 
