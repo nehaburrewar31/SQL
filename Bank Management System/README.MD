@@ -10,7 +10,7 @@ This project demonstrates a Bank Management System database using SQL. It includ
 * Accounts
 * Transactions
 
- SQL Concepts Covered
+ ## SQL Concepts Covered
 
 * SELECT
 * WHERE
