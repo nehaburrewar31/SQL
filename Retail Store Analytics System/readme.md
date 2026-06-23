@@ -58,7 +58,7 @@ The Retail Store Analytics System is a SQL-based data analysis project designed 
 * Revenue by Category
 * Revenue by Store
 
-## Skills Demonstrated
+ Skills Demonstrated
 
 * Data Analysis
 * Data Aggregation
