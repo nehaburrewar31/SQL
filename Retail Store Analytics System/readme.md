@@ -1,10 +1,10 @@
- Retail Store Analytics System
+ ## Retail Store Analytics System
 
- Project Overview
+## Project Overview
 
 The Retail Store Analytics System is a SQL-based data analysis project designed to analyze sales performance, customer purchasing behavior, product sales, and store revenue. This project helps businesses gain insights into their operations and make data-driven decisions.
 
- Tools Used
+## Tools Used
 
 * MySQL
 * SQL Queries
@@ -13,7 +13,7 @@ The Retail Store Analytics System is a SQL-based data analysis project designed 
 * Subqueries
 * Common Table Expressions (CTEs)
 
-Database Tables
+## Database Tables
 
 * Stores
 * Customers
@@ -21,7 +21,7 @@ Database Tables
 * Sales
 * Sales_Items
 
-Key Analysis Performed
+## Key Analysis Performed
 
 * Total Revenue Analysis
 * Store-wise Revenue Analysis
@@ -34,7 +34,7 @@ Key Analysis Performed
 * Repeat Customer Analysis
 * Monthly Revenue Analysis
 
- Business Questions Solved
+ ## Business Questions Solved
 
 * Total Revenue Generated
 * Revenue by Store
@@ -47,7 +47,7 @@ Key Analysis Performed
 * Monthly Revenue Trends
 * Repeat Customer Identification
 
- Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 * Total Revenue
 * Total Orders
