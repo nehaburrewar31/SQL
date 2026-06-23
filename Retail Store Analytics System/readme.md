@@ -74,6 +74,5 @@ The Retail Store Analytics System is a SQL-based data analysis project designed 
 This project provides valuable insights into retail business performance by analyzing sales transactions, customer behavior, and product performance. The generated reports help stakeholders monitor business growth and improve decision-making.
 
 ## Author
-
 Neha Burrewar
 Aspiring Data Analyst
