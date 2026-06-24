@@ -20,3 +20,4 @@ A SQL project for analyzing e-commerce sales data.
 - MySQL Workbench
 
 ## Author
+ Neha Burrewar
