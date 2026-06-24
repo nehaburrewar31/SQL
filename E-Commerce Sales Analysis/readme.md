@@ -18,3 +18,5 @@ A SQL project for analyzing e-commerce sales data.
 
 ## Tools
 - MySQL Workbench
+
+## Author
