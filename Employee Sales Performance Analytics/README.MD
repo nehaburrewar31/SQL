@@ -1,4 +1,4 @@
-# Employee Sales Performance Analytics (SQL)
+# Employee Sales Performance Analytics 
 
 ## Project Overview
 
