@@ -77,3 +77,5 @@ This project analyzes employee sales data using SQL. It covers basic SQL queries
 ## Project Purpose
 
 This project is created for **Data Analyst interview preparation** and to practice SQL using a real-world sales dataset.
+
+## AUTHOR
