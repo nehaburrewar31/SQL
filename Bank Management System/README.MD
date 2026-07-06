@@ -27,6 +27,6 @@ This project demonstrates a Bank Management System database using SQL. It includ
 * Analyze balances and transaction activities.
 * Practice real-world SQL queries.
 
-## Author
+ Author
 
 Neha Burrewar
